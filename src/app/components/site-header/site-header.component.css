@@ -1,0 +1,19 @@
+#navbarSupportedContent{
+    justify-content: space-between!important;
+    margin-right: 30px!important;
+}
+
+.navbar-brand{
+    margin-left: 30px!important;
+}
+
+.form-inline{
+    display: flex!important;
+    gap: 10px!important;
+}
+
+.navbar{
+    height:100px!important;
+    font-size: 20px!important;
+    background-color: rgba(195, 216, 203, 0.776)!important;
+}
